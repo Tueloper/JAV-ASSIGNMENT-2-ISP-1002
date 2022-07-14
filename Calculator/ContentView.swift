@@ -195,5 +195,5 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 
-//NOTE: Most of the resources used here was gotten from AfrazCodes, that's github username
+//NOTE: Most of the resources used here for this assignment was gotten from AfrazCodes, that's github username
 
